@@ -123,6 +123,8 @@ HR_Attrition_Dashboard.xlsx -- KPI cards, driver charts, risk summary
     
 18. Does the combination of overtime and long commute compound the risk?
 
+For the full query + result table for every question, see [ANALYSIS.md](ANALYSIS.md).
+    
 High Risk employees make up 20% of headcount but account for **53% of all attritions** — meaning a retention program targeting just this group would address over half of total attrition, an 8x more efficient use of retention budget than a blanket policy.
 
 ## Dashboard
