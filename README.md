@@ -24,30 +24,44 @@ HR_Attrition_Dashboard.xlsx -- KPI cards, driver charts, risk summary
 
 Batch 1 — Demographics
 What is the overall attrition rate?
+
 How does attrition vary by Department?
+
 How does attrition vary by Job Role?
+
 How does attrition vary by Gender?
+
 How does attrition vary by Marital Status? (+ interaction with Job Role)
+
 How does attrition vary by Business Travel frequency?
 
 Batch 2 — Compensation
 7. Do employees who leave earn less, on average, than those who stay?
+
 8. Does attrition rate differ across income quartiles?
+  
 9. Does the size of an employee's last raise affect attrition?
 
 Batch 3 — Work Conditions
 10. Does working overtime increase attrition risk?
+
 11. Does Work-Life Balance score affect attrition?
+  
 12. Does Job Satisfaction score affect attrition?
+  
 13. Does Environment Satisfaction score affect attrition?
 
 Batch 4 — Tenure & Career Growth
 14. Do employees who leave have shorter tenure, on average?
+
 15. Does time since last promotion affect attrition?
+    
 16. Does seniority (Job Level) affect attrition?
+ 
 
 Batch 5 — Commute
 17. Does distance from home affect attrition?
+
 18. Does the combination of overtime + long commute compound the risk?
 
 ## Key Findings
